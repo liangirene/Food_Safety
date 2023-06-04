@@ -1,6 +1,6 @@
 # Food_Safety
 
-In this project, I analyzed restaurant food safety scores for restaurants in San Francisco using various data science techniques. The goal was to gain insights into the food safety standards of restaurants and identify areas for improvement. I performed the analysis on a dataset provided by the San Francisco Department of Public Health, which contained a collection of restaurant food safety scores.
+In this project, I analyzed restaurant food safety scores for restaurants in San Francisco using various `pandas` operations visualization techniques. The goal was to gain insights into the food safety standards of restaurants and identify areas for improvement. I performed the analysis on a dataset provided by the San Francisco Department of Public Health, which contained a collection of restaurant food safety scores.
 
 ## Project Description
 In this project, I employed a range of data science techniques to explore and analyze the restaurant food safety scores dataset. The following techniques were utilized:
