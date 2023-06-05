@@ -1,4 +1,4 @@
-# Food_Safety
+# Food Safety
 
 In this project, I analyzed restaurant food safety scores for restaurants in San Francisco using various `pandas` operations and visualization techniques. The goal was to gain insights into the food safety standards of restaurants and identify areas for improvement. I performed the analysis on a dataset provided by the San Francisco Department of Public Health, which contained a collection of restaurant food safety scores.
 
